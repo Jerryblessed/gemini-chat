@@ -90,7 +90,7 @@ const ChatArea = () => {
     setHistory([
       {
         role: "model",
-        parts: "Great to meet you. Interact with me about videos hosted by theta p2p network as a chatbot",
+        parts: ""Great to meet you. Interact with me about videos or education on light platform in general🙂",
       },
     ]);
     setinput("");
