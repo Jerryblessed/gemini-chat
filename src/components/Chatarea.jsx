@@ -13,7 +13,7 @@ const ChatArea = () => {
   const [history, setHistory] = useState([
     {
       role: "model",
-      parts: "Great to meet you. Interact with me about videos hosted by theta p2p network as a chatbot.",
+      parts: "Great to meet you. Interact with me about videos or education on light platform in general🙂.",
     },
   ]);
   const genAI = new GoogleGenerativeAI(process.env.NEXT_PUBLIC_APIKEY);
