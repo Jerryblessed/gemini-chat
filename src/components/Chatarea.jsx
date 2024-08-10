@@ -118,7 +118,7 @@ const ChatArea = () => {
               </div>
             </div>
             <div className="chat-header mx-2 font-semibold opacity-80">
-              {item.role === "model" ? "LightPro AI" : "You"}
+              {item.role === "model" ? "Light" : "You"}
             </div>
             <div
               className={`chat-bubble font-medium ${
