@@ -1,8 +1,7 @@
-# Gemini Pro and Gemini Vision Chat Bot
+# Light Chat
 
 This project is Gemini-Pro Based AI chat bot built with Next.js 14 and TypeScript. It uses an AI model to generate responses to user input (either text or image).
 
-![screenshot](https://imgur.com/v3eOec8.png)
 
 ## Features
 
@@ -64,3 +63,4 @@ Contributions are what make the open source community such an amazing place to l
 ### Author
 
 [Anish biswas](https://github.com/Xeven777/)
+[Jeremiah Ope](https://github.com/Jerryblessed/)
