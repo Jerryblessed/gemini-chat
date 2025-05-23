@@ -19,7 +19,7 @@ const ChatArea = () => {
   const genAI = new GoogleGenerativeAI(process.env.NEXT_PUBLIC_APIKEY);
   const [chat, setchat] = useState(null);
 
-  const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+  const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
   useEffect(() => {
     if (messagesEndRef.current) {
       messagesEndRef.current.scrollIntoView({ behavior: "smooth" });
